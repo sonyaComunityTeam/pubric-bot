@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: /sitemap.xml.gz
+Sitemap: https://sonyacomunityteam.github.io/pubric-bot/sitemap.xml.gz
