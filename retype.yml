@@ -1,0 +1,23 @@
+
+input: .
+output: .retype
+url: sonyacomunityteam.github.io/pubric-bot/
+favicon: 
+branding:
+  title: PubricBot
+  label: Beta
+  logo: 
+links:
+- text: サポートサーバー
+  link: 準備中
+  icon: comment-discussion
+  target: blank
+- text: Github
+  link: https://github.com/sonyaCommunityTeam/pubric-discord-bot
+  icon: mark-github
+  target: blank
+- text: Twitter
+  link: https://twitter.com/sonyakun1
+  target: blank
+footer:
+  copyright: "&copy; Copyright {{ year }}. All rights reserved."
